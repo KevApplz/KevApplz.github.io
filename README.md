@@ -12,8 +12,8 @@
   01067 Dresden<br>
   Deutschland</p>
 
-  <p>E-Mail: kevapplz@gmail.com</p>
-  <p>Telefon: 0176 57886124</p>
+  <p>E-Mail: kevapplz@gmail.com <br>
+    Telefon: 0176 57886124</p>
 
   <p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
   Bui Kim Nhung<br>

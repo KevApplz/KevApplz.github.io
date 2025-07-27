@@ -3,7 +3,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Impressum</title>
+  
 </head>
 <body>
   <h1>Impressum</h1>

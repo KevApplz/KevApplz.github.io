@@ -12,7 +12,8 @@
   01067 Dresden<br>
   Deutschland</p>
 <h1> Kontakt</h1>
-  <p>E-Mail: kevapplz@gmail.com <br>
+  <p>E-Mail: <a
+ href="kevapplz@gmail.com">kevapplz@gmail.com </a></p> 
     Telefon: 0176 57886124</p>
 <h1> Berufsbezeichnung</h1>
   <p>Content Creator </p>

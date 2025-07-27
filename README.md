@@ -7,11 +7,11 @@
 </head>
 <body>
   <h1>Impressum</h1>
-  <p><strong>Bui Kim Nhung</strong><br>
+  <p>Bui Kim Nhung<br>
   Schäferstraße 91<br>
   01067 Dresden<br>
   Deutschland</p>
-
+<h1> ontakt<h1>
   <p>E-Mail: kevapplz@gmail.com <br>
     Telefon: 0176 57886124</p>
 

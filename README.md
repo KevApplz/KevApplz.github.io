@@ -11,7 +11,7 @@
   Schäferstraße 91<br>
   01067 Dresden<br>
   Deutschland</p>
-<h1> ontakt<h1>
+<h1> Kontakt</h1>
   <p>E-Mail: kevapplz@gmail.com <br>
     Telefon: 0176 57886124</p>
 
